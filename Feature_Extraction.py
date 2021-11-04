@@ -467,7 +467,7 @@ def main():
 API Name: Radiomics Feature Analysis
 Version:    1.0
 Developer: Alvin Li
-Email:     alvinli@gorilla-technology.com / d05548014@ntu.edu.tw
+Email:     d05548014@ntu.edu.tw
 ****************************************
 
 """
