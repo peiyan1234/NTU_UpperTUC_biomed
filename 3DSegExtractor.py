@@ -21,7 +21,7 @@ API_description = """
 API Name: 3D Segmentation Extractor
 Version:    1.0
 Developer: Alvin Li
-Email:     alvinli@gorilla-technology.com / d05548014@ntu.edu.tw
+Email:     d05548014@ntu.edu.tw
 ****************************************
 
 """
